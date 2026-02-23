@@ -364,10 +364,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/TarsLab/obsidian-tars">Obsidian Tars</a></td>
         <td> Obsidianのノート編集にLLMの会話を統合し、deepseek-reasonerのチェーン・オブ・ソート(CoT)出力をコールアウト形式で表示します。 </td>
     </tr>
-    <tr>
+        <tr>
         <td> <img src="https://www.chatbotbuilder.dev/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/bobbylkchao/chatbotBuilder">AI Chatbot Builder</a> </td>
         <td> <a href="www.chatbotbuilder.dev/">Chatbot Builder</a> はオープンソースのプラットフォームで、DeepSeekとOpenAIモデルを統合し、さまざまな対話シナリオに対応したカスタマイズ可能なチャットボットを作成できます。ローコードかつ設定可能な方法で、簡単にインテリジェントな対話体験を構築できます。</td>
+    </tr>
+    <tr>
         <td> <img src="https://bibigpt.co/icons/lucid/icon_32x32@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> </td>
         <td> <a href="http://bibigpt.co">BibiGPT</a> は、ビリビリ動画、YouTube、小紅書、ポッドキャストなどの主要プラットフォームのコンテンツ分析と要約をサポートするAI音声・動画アシスタントで、音声・動画コンテンツの素早い視聴、簡単な検索、効果的な活用を実現します。コンテンツの要約、インタラクティブなQ&A、記事生成などの機能を提供。動画ファイルのアップロード、メモアプリの連携、DeepSeek R1とV3モデルをサポート。 </td>
@@ -377,25 +379,30 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://lobehub.com/ja/docs/usage/providers/deepseek">LobeChat</a> </td>
         <td> <a href="https://lobehub.com">LobeChat</a> - オープンソースのモダンな AI チャットフレームワーク。DeepSeek R1、ナレッジベース（ファイルアップロード/知識管理/RAG）、マルチモーダル機能（画像認識/音声合成/プラグイン/アーティファクト）に対応。わずか1クリックで、独自の DeepSeek アプリケーションを無料でデプロイ可能。</td>
     </tr>
-    <tr>
+        <tr>
         <td> <img src="./docs/ruzhiai_note/assets/play_store_512.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/ruzhiai_note/README_cn.md">如知AIノート</a> </td>
         <td>如知AIノートは、AIを活用したインテリジェントな知識管理ツールで、AI検索・探索、AI結果のノート変換、ノート管理・整理、知識の表示・共有など、ワンストップの知識管理・応用サービスを提供します。DeepSeek深層思考モデルを統合し、より安定した、より高品質な出力を提供します。</td>
+    </tr>
+    <tr>
         <td> <img src="https://www.weiyuai.cn/logo.png" alt="AI Customer Service" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Bytedesk/bytedesk">Bytedesk</a> </td>
         <td> AI を活用したライブ チャット、電子メール サポート、オムニチャネル カスタマー サービス、チーム IM を備えた、Slack + zendesk/intercom に代わるエンタープライズ IM ソリューション.</td>
+    </tr>
+    <tr>
         <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
         <td>SRT/ASS/VTT/LRC形式に対応したバッチ字幕翻訳ツール。DeepSeekを含む多様なLLMおよび機械翻訳インターフェースと互換性があります。</td>
     </tr>
-    <tr>
+        <tr>
         <td> <img src="https://raw.githubusercontent.com/songquanpeng/one-api/main/web/default/public/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API は LLM API 管理＆キー再配布システムで、OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek など複数のプロバイダーを統一 API で管理できます。シングルバイナリ、Docker 対応、すぐに使えます。</td>
-<tr>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/guyoung/AIMatrices/raw/main/docs/assets/logo/ai-matrices1.png" alt="AIMatrices 图标" width="64" height="auto" /> </td>
-        <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>  
-		<td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
+        <td> <a href="https://github.com/guyoung/AIMatrices/blob/main/README.md">AIMatrices</a> </td>
+        <td>AIMatricesは、効率的で便利なaiアプリケーション開発体験を開発者に提供するために設計された、軽量、高性能、スケーラブルでオープンソースのaiアプリケーション迅速構築プラットフォームです。複数の高度なテクノロジとツールを統合することで、複雑なコードをゼロから作成することなく、ユーザーがaiアプリケーションを迅速に構築、展開、維持できるようになります。</td>
     </tr>
 </table>
 
@@ -590,7 +597,6 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://static.eudic.net/web/trans/en_trans.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="docs/Lulu Translate/README.md"> Lulu Translate </a> </td>
         <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書の翻訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
-        <td> このプラグインは、マウス選択翻訳、段落ごとの比較翻訳、およびPDF文書訳機能を提供します。DeepSeek AI、Bing、GPT、Googleなどのさまざまな翻訳エンジンを利用できます。 </td>
     </tr>
     <tr>
         <td> <img src="https://github.com/Bistutu/FluentRead/raw/refs/heads/main/public/icon/192.png" alt="Icon" width="64" height="auto" /> </td>
@@ -637,11 +643,13 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/docky-ai/README_ja.md"> Docky AI </a> </td>
         <td>Docky AI は強力なブラウザ拡張機能で、サイドバーを通じて複数のAIモデルとリアルタイムで会話することができます。複数モデルとの同時交流をサポートし、ウェブページの閲覧、執筆、翻訳、画像作成を支援します</td>
     </tr>
-    <tr>
+        <tr>
         <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="./docs/Rearview/README_ja.md"> RearView </a> </td>
         <td>Rearview はブラウザ履歴管理拡張機能で、履歴ブラウジング内容の全文検索をサポートし、履歴を会話可能な知識ベースに変換します。</td>
-<td> <img src="https://www.chatgot.io/chat/assets/imgs/logo@2x.png" alt="Icon" width="64" height="auto" /> </td>
+    </tr>
+    <tr>
+        <td> <img src="https://www.chatgot.io/chat/assets/imgs/logo@2x.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.chatgot.io/"> ChatGOT </a> </td>
         <td> 生産性を向上させるための無料のAIチャットボットアシスタント </td>
     </tr>
@@ -682,10 +690,12 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
             <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
             <td> Visual Studio Code 用 AI Toolkit は、開発者や AI エンジニアが生成 AI モデルを使用してインテリジェントなアプリケーションを構築、テスト、およびデプロイすることを可能にする包括的な拡張機能です。 </td>
         </tr>
-    <tr>
+        <tr>
         <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
         <td> VS Code 用の AI コードレビューおよびコミットメッセージジェネレーター。コードの変更を自動的にレビューし、意味のある標準的なコミットメッセージを生成します。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> GitHub Copilot で OpenAI 互換の推論プロバイダーを使用するためのオープンソースの VS Code 拡張機能です。 </td>

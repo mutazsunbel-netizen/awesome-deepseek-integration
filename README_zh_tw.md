@@ -46,10 +46,12 @@
 ###  <span id="applications">應用</span>
 
 <table>
-    <tr>
+        <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>面向安卓平台的開源系統集成 AI 助手，支持幾乎完整的 mcp 使用，與安卓系統高度兼容。軟件同時具備高度自定義和低門檻的上手體驗，內建文件操作、搜索、自動點擊、格式轉換等工具，並整合了 DeepSeek API 網頁。</td>
+    </tr>
+    <tr>
         <td><img src="docs/openEuler Intelligence/intelligence_icon.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://www.openeuler.org/zh/projects/intelligence/">openEuler Intelligence</a></td>
         <td>基於 openEuler 的大模型智能平台，深度整合了包括 DeepSeek 在內的主流大語言模型，並具備本地知識庫建構能力。平台提供語義介面註冊、MCP 服務管理、智慧體（Agent）開發及自動化工作流編排等核心功能，同時支援 Web 端和桌面客戶端雙模式存取，顯著提升開發效率與企業級應用體驗！</td>
@@ -330,10 +332,11 @@
         <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
         <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> 是一款具備情境管理功能的 AI 編碼工具。幫助開發者管理源代碼情境，並為現有代碼庫中的複雜編碼任務生成提示。</td>
     </tr>
-    <tr>
+        <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/assets/favicon1.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/Alpha派/README.md"> Alpha 派 </a> </td>
         <td> AI 研究助理 / 下一代由 AI 驅動的金融資訊門戶。<br>代替投資者參加會議並記錄筆記，同時提供金融資訊搜索與問答服務，以及投資研究的定量分析。</td>
+    </tr>
     <tr>
         <td> <img src="https://docs.xark-argo.com/img/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://www.xark-argo.com">argo</a> </td>
@@ -457,10 +460,12 @@
         <td> <a href="https://github.com/SamYuan1990/i18n-agent-action">i18n-agent-action</a> </td>
         <td> i18n Agent是一款人工智能驱动的工具，旨在简化和自动化国际化（i18n）与本地化（l10n）工作流程。它通过先进的自然语言处理（NLP）和机器学习技术，帮助开发者、翻译人员和产品团队高效管理多语言内容——既能消除人工错误，又能加速全球部署进程。 </td>
     </tr>
-    <tr>
+        <tr>
         <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
         <td>支援 SRT/ASS/VTT/LRC 格式的批量字幕翻譯工具，兼容 DeepSeek 等多種大模型接口和機器翻譯接口。</td>
+    </tr>
+    <tr>
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> </td>
         <td> <a href="https://haiguitang.net/"> Turtle Noir </a> 基於 DeepSeek 的 AI 主持人海龜湯 / 側向思維解謎產品，可單人或者多人遊玩。AI 進行控場與吐槽，圍繞「是 / 否 / 無關」的問答推進推理；提供沉浸式玩法（更強劇情氛圍與節奏引導）、引導提示與防卡關機制，同時結合向量檢索 + DeepSeek 進行題目去重，並提供內容審核能力。適合輕量腦洞訓練與在線陪玩。 </td>
@@ -811,10 +816,12 @@
         <td> <a href="https://code.visualstudio.com/docs/intelligentapps/overview"> AI Toolkit </a> </td>
         <td> Visual Studio Code 的 AI Toolkit 是一個綜合性擴展，為開發人員和 AI 工程師提供使用生成式 AI 模型構建、測試和部署智能應用程序的能力。 </td>
     </tr>
-    <tr>
+        <tr>
         <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
         <td> 適用於 VS Code 的 AI 程式碼審查和提交訊息產生器。自動審查您的程式碼變更並產生有意義的標準提交訊息。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> 開源的 VS Code 擴充功能，可在 GitHub Copilot 中使用 OpenAI 相容的推理提供者。 </td>

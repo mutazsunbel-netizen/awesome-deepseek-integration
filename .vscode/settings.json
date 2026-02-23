@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "ms-vscode-remote.remote-containers",
+    "editor.defaultFoldingRangeProvider": "vscode.css-language-features",
+    "notebook.defaultFormatter": "vscode.github"
+}

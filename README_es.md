@@ -426,6 +426,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><img src="https://raw.githubusercontent.com/rockbenben/subtitle-translator/main/public/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/rockbenben/subtitle-translator">Subtitle Translator</a></td>
         <td>Herramienta de traducción de subtítulos por lotes para formatos SRT/ASS/VTT/LRC, compatible con DeepSeek y otras interfaces de LLM y traducción automática.</td>
+    </tr>
+    <tr>
         <td width=80> <img src="docs/turtlenoir/assets/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> </td>
         <td> <a href="https://turtlenoir.com/"> Turtle Noir </a> Un juego de enigmas de pensamiento lateral tipo "Sopa de Tortuga" con un anfitrión de IA basado en DeepSeek, disponible para uno o varios jugadores. La IA modera la partida e interactúa con humor, guiando la deducción mediante respuestas de "Sí / No / Irrelevante". Ofrece una experiencia inmersiva con una fuerte atmósfera narrativa, gestión del ritmo y un sistema de pistas para evitar bloqueos. Integra búsqueda vectorial y DeepSeek para evitar la repetición de acertijos e incluye moderación de contenido. Ideal para entrenar la creatividad y como entretenimiento social en línea. </td>
@@ -706,6 +708,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td><img src="https://readfrog.mengxi.work/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://readfrog.mengxi.work"> 🐸 Read Frog </a></td>
         <td>Traduce y comprende en profundidad cualquier página web con la ayuda de la IA.</td>
+    </tr>
+    <tr>
         <td> <img src="./docs/Rearview/assets/favicon.webp" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="./docs/Rearview/README_es.md"> RearView </a> </td>
         <td>Rearview es una extensión de gestión del historial del navegador que admite la búsqueda de texto completo del contenido de navegación histórico y convierte el historial de navegación en una base de conocimientos conversacional.</td>
@@ -751,6 +755,8 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
         <td> Revisión de código con IA y generador de mensajes de confirmación para VS Code. Revisa automáticamente los cambios de código y genera mensajes de confirmación estándar y relevantes. </td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/JohnnyZ93/oai-compatible-copilot/blob/main/assets/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/oai-compatible-copilot/README.md"> OAI Compatible Provider for Copilot </a> </td>
         <td> Una extensión de código abierto para VS Code para usar proveedores de inferencia compatibles con OpenAI en GitHub Copilot. </td>
